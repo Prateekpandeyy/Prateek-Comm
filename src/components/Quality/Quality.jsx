@@ -33,7 +33,7 @@ const Quality = () => {
             image = {i.image}
             label = {i.label}
             margin = {2}
-            width = {345}
+            width = {320}
             height = {500}
             />
         
